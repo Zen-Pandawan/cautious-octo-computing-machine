@@ -1,0 +1,9 @@
+<h2>{{compName}}</h2>
+
+<ul>
+  {{#each people as |person|}}
+    <li {{action "showPersonObj" person}}>{{person.name}}</li>
+  {{/each}}
+</ul>
+
+{{yield}}

@@ -16,8 +16,14 @@
 npm-debug.log*
 yarn-error.log
 testem.log
+/.eslintrc.json
 
 # ember-try
 .node_modules.ember-try/
 bower.json.ember-try
 package.json.ember-try
+tests/.eslintrc.js
+bkp2.eslintrc.jsC
+bkp.eslintrc.jsb
+tests/.eslintrc.js
+.eslintrc.js
